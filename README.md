@@ -1,2 +1,2 @@
 # Angular1-QuickStart
-Angular 1 Hello Wotld Example using bower
+Angular 1 Hello Word Example using bower
