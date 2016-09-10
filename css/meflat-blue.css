@@ -636,7 +636,7 @@ a:focus,
     margin-top: 60px;
 }
 
-#skills .section-header {
+#contact .section-header, #skills .section-header {
     margin-bottom: 40px;
 }
 
